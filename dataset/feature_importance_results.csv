@@ -1,0 +1,25 @@
+Feature,Importance
+numerical__Hour,612
+numerical__Month,599
+numerical__DayOfWeek,301
+numerical__ChargerCompany,256
+numerical__ChargerType,177
+categorical__Location_market,132
+categorical__Location_resort,102
+categorical__Location_hotel,94
+categorical__Location_apartment,92
+categorical__Location_accommodation,55
+categorical__Location_public area,54
+categorical__Location_public institution,52
+categorical__TimeOfDay_Evening,48
+categorical__TimeOfDay_Morning,47
+categorical__Location_sightseeing,45
+categorical__Location_company,44
+categorical__Location_camping,41
+categorical__Location_golf,32
+categorical__TimeOfDay_Afternoon,27
+categorical__TimeOfDay_Night,24
+categorical__Location_restaurant,23
+categorical__Location_public parking lot,21
+numerical__IsWeekend,2
+categorical__Location_bus garage,0
