@@ -22,7 +22,7 @@ def load_regressor():
 # Load both trained models
 lightgbm_classifier = load_classifier()
 lightgbm_regressor = load_regressor()
-st.success("LightGBM classification model loaded successfully!")
+
 
 # Page configuration
 st.set_page_config(
